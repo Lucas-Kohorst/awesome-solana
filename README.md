@@ -17,7 +17,6 @@
 - [Drift](https://drift.trade) vAMM cross margined perps
 - [Mango](https://mango.markets/) 
 - [Bonfida](https://dex.bonfida.org/) best AMM built on sereum
-- When trading, after placing order had to settle funds after to receive the payout
 
 ### Yield Aggregators
 - [Step](https://step.finance) 
