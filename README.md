@@ -47,6 +47,8 @@
 - [Programming on solana an introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Anchor Basic-0 walkthrough](https://mirror.xyz/0x840B1dC2abb99f1F86D549303719610F346B2aaF/w3-WcRd8aablvFf8Er5qH4H4b-x-8UVfhElMv6Uwick)
 - [Learning anchor](https://www.stasha.dev/girri/learning-anchor)
+- [Anchor 101](https://2501babe.github.io/posts/anchor101.html)
+- [Solana 101](https://2501babe.github.io/posts/solana101.html)
 
 #### Solana Architecture 
 - [Proof of History](https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274)
